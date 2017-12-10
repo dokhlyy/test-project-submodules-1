@@ -7,3 +7,5 @@ Submodule-1
 - fix 4 gitlab?
 - new feature-1
 - new feature-2
+- release feature 1 and 2
+- new feature-3
